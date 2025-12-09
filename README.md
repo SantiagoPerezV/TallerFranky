@@ -10,9 +10,12 @@
 MySql.Data, Windows Forms
 
 ## 📹 Video explicativo
-https://drive.google.com/file/d/1tPhcXqhzTy5GjgnhwZL58Gy2LKN4_DJ2/view?usp=sharing
+https://drive.google.com/file/d/1yXzk-9PKQf3WNhSIS4s38ENguex6pXej/view?usp=sharing
 
 ## 📸 Capturas
+
+### Diagrama de clases
+<img width="1104" height="452" alt="image" src="https://github.com/user-attachments/assets/0f935a86-201c-4c7d-8545-baac0eefe817" />
 
 ### Menú
 <img width="440" height="344" alt="image" src="https://github.com/user-attachments/assets/ec6bb887-7988-4f29-8058-c370a97aabf5" />
